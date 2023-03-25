@@ -1,0 +1,24 @@
+{
+  "name": "adminprobackend",
+  "version": "1.0.0",
+  "description": "adminProBackend\r This repository contains the backend code for the adminPro application. The adminPro application is a student management system that allows you to maintain attendance records and other student details for multiple institutes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinawa/adminProBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinawa/adminProBackend/issues"
+  },
+  "homepage": "https://github.com/abhinawa/adminProBackend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
